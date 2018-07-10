@@ -7,7 +7,7 @@ class TSWriter {
     static let defaultVideoPID: UInt16 = 256
     static let defaultAudioPID: UInt16 = 257
     static let defaultSegmentCount: Int = 3
-    static let defaultSegmentMaxCount: Int = 12
+    static let defaultSegmentMaxCount: Int = 2
     static let defaultSegmentDuration: Double = 2
 
     var playlist: String {
